@@ -25,9 +25,6 @@
     ],
     "client": [
       "org.betterx.betternether.client.BetterNetherClient"
-    ],
-    "emi": [
-      "org.betterx.betternether.integrations.emi.EMIPlugin"
     ]
   },
   "accessWidener": "betternether.accesswidener",
