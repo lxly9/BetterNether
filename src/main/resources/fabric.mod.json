@@ -1,20 +1,19 @@
 {
   "schemaVersion": 1,
   "id": "betternether",
-  "version": "${version}",
-  "name": "Better Nether",
-  "description": "Mod that improves Nether",
+  "version": "7.1.4",
+  "name": "Better Nether Fork",
+  "description": "Better Nether Fork to work with EMI 1.0.0",
   "authors": [
-    "quiqueck",
-    "paulevs (original author)"
+    "gayasslily"
   ],
   "contributors": [
     "edos_ (builder, design help)"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/betternether",
-    "sources": "https://github.com/quiqueck/BetterNether/tree/snapshots",
-    "issues": "https://github.com/quiqueck/BetterNether/issues"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/betterx-jemi",
+    "sources": "https://github.com/lxly9.2/BetterNether/tree/snapshots",
+    "issues": "https://github.com/lxly9.2/BetterNether/issues"
   },
   "license": "MIT (CC BY-NC-SA 4.0 for some Assets)",
   "icon": "assets/betternether/icon.png",
@@ -49,8 +48,7 @@
     "bclib": {
       "updater_icon": "icon_updater.png",
       "downloads": {
-        "modrinth": "https://modrinth.com/mod/betternether",
-        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/betternether"
+        "modrinth": "https://modrinth.com/mod/betterx-jemi"
       }
     },
     "extrapieces:piecepack": "extrapieces.betternether.json",
